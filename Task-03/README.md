@@ -1,0 +1,3 @@
+This task was really interesting, creating a fun game by writting code was something really new for me.
+
+I first learnt the basics of HTML,CSS and javascript through a youtube video. I understood about the basic functions of HTML,CSS and found that CSS is a styling language which is very much creativity focused.I wrote the code for every part and that was pretty difficult part and in this journey google helped me a lot. The task was really time consuming but it was fun and at last i got to learn so many new concepts and progressed a lot , Thanks to praveshan.

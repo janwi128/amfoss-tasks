@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+    margin: 0;
+}
+
+canvas {
+    border: 2px solid #333;
+    background-color: white;
+    cursor: crosshair;
+}
+
+.score-container {
+    margin: 20px;
+    text-align: center;
+}
+
+#score {
+    font-weight: bold;
+    color: #4CAF50;
+}
+
+#best-score {
+    font-weight: bold;
+    color: #007bff; /* A different color for the best score */
+}
+
+#reset-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
