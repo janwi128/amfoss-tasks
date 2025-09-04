@@ -10,7 +10,6 @@ let drawnPoints = [];
 const centerPoint = { x: canvas.width / 2, y: canvas.height / 2 };
 let bestSessionScore = parseFloat(sessionStorage.getItem('bestScore')) || 0;
 
-// Set up the canvas and event listeners
 function init() {
     canvas.addEventListener('mousedown', startDrawing);
     canvas.addEventListener('mousemove', draw);
@@ -84,22 +83,22 @@ function resetGame() {
 }
 
 function calculateScore() {
-    // 1. Find the center and radius of the drawn shape
+    
     const centerX = drawnPoints.reduce((sum, p) => sum + p.x, 0) / drawnPoints.length;
     const centerY = drawnPoints.reduce((sum, p) => sum + p.y, 0) / drawnPoints.length;
     const distances = drawnPoints.map(p => Math.sqrt(Math.pow(p.x - centerX, 2) + Math.pow(p.y - centerY, 2)));
     const avgRadius = distances.reduce((sum, d) => sum + d, 0) / distances.length;
 
-    // 2. Compare the drawn shape to a perfect circle
+    
     const variance = distances.map(d => Math.pow(d - avgRadius, 2));
     const totalVariance = variance.reduce((sum, v) => sum + v, 0);
     const score = Math.max(0, 100 - (totalVariance / (drawnPoints.length * Math.pow(avgRadius, 2))) * 2500);
 
-    // 3. Display the score and the perfect circle overlay
+    
     scoreDisplay.textContent = `${Math.round(score)}%`;
     drawPerfectCircle(centerX, centerY, avgRadius);
 
-    // Update best score for the session
+
     if (score > bestSessionScore) {
         bestSessionScore = score;
         sessionStorage.setItem('bestScore', bestSessionScore);
@@ -115,7 +114,6 @@ function drawPerfectCircle(x, y, radius) {
     ctx.stroke();
 }
 
-// Ray-casting algorithm to check if a point is inside a polygon
 function isPointInPolygon(point, polygon) {
     let isInside = false;
     const x = point.x;
@@ -133,5 +131,4 @@ function isPointInPolygon(point, polygon) {
     return isInside;
 }
 
-// Initialize the game
 init();
