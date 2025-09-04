@@ -27,7 +27,7 @@ canvas {
 
 #best-score {
     font-weight: bold;
-    color: #007bff; /* A different color for the best score */
+    color: #007bff; 
 }
 
 #reset-button {
