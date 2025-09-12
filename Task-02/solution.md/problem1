@@ -1,0 +1,17 @@
+#codeforces contest
+
+problem statement: Check whether chef made it to the top 10 or not.
+
+Approach: chefs rank is given as x.if x is 10 or less than 10 print "YES" otherwise "NO"
+
+code:
+T=int(input())
+for i in range(T):
+    x=int(input())
+    if x<=10:
+        print("YES")
+    else:
+        print("NO")
+    
+
+

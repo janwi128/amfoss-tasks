@@ -1,0 +1,18 @@
+#Big hotel
+
+problem statement: If Raju starts from his room, find the number of floors he needs to travel to reach Ravi's room.
+
+Approach: find the floor of both raju and ravi and then find the difference of the floors
+
+code:
+T=int(input())
+for i in range(T):
+    X,Y=map(int,input().split())
+    floorX=(X-1)//10+1
+    floorY=(Y-1)//10+1
+    if floorX>=floorY:
+        diff=floorX-floorY
+    else:
+        diff=floorY-floorX
+    print(diff)
+    

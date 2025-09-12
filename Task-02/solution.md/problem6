@@ -1,0 +1,23 @@
+#Remove card
+
+problem statement: Find the minimum number of moves required so that all the cards remaining on the table have the same number written on them.  
+In one move, you can remove any card.
+
+Approach: count the frequency of each number on the cards. keep the number with the maximum frequency.
+minimum moves = total cards-maximum frequency.
+
+code:
+T=int(input())
+for i in range(T):
+    N=int(input())
+    cards=list(map(int,input().split()))
+    freq={}
+    for num in cards:
+        if num in freq:
+            freq[num]+=1
+        else:
+            freq[num]=1
+             
+    maximum_freq=max(freq.values())
+    moves=N-maximum_freq
+    print(moves)
