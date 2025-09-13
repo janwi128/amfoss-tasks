@@ -1,0 +1,59 @@
+Commands I used:
+git clone 
+cd 
+ls
+ls -a
+cat
+
+finally got the first piece of puzzle inside gravity_equation.txt
+
+password found:
+you’ve uncovered the first piece of the puzzle — well done, explorer.
+
+The string: T25lIGxhc3QgdGFzaywgYW5kIHlvdSdsbCBoYXZlIHN1Y2Nlc3NmdWxseSBjb21
+
+Its meaning holds power... and danger.
+Now that the facility has fulfilled its purpose, it's time to cover your tracks, erase it. 
+
+Commands I used:
+cd
+ls
+ls -a
+chmod +x .wormhole.sh
+./.wormhole.sh
+
+finally got the second piece of puzzle 
+password found:
+Well done, traveller
+You've managed to breach the distortions near Saturn's ring and accessed the wormhole node
+This is your second key wbGV0ZWQgdGhlIFRlcm1pbmFsIEh1bnQhIFJ1biBncmF2aXR5
+But now, your mission isn't just to discover... it's to protect
+Back up the solutions.md to the safest place you know
+And what could be safer than your Home Sweet Home.
+
+Cmmands I used:
+cd
+ls -a
+find
+cat
+finally found the .HABITABLE.txt inside the .hidden_branch/.hidden_cave/Dessert5/Edmunds_planet
+
+Congrats! You have found the one and only planet humans can thrive in. Here's its genetic code:
+LnNoIHVzaW5nIHRoZSBwYXNzd29yZCBPcGVuU291cmNlLCBhbmQgYWRkIGEgc2NyZWVuc2hvdCB0byBzb2x1dGlvbi5tZA==
+
+Command I used:
+cd
+ls
+ls-a
+finally got the message inside .message_from_Them.txt from the_core/Gargantua
+
+
+Congrats on making it this far. Now here's the message that They sent us. Figure out Their language to get the final piece of the puzzle
+
+01011010 01010011 01110111 01100111 01011001 01010111 00110101 01101011 01001001 01000111 01000110 01101011 01011010 01000011 01000010 01101000 01001001 01001000 01001110 01101010 01100011 01101101 01010110 01101100 01100010 01101110 01001110 01101111 01100010 00110011 01010001 01100111 01100100 01000111 00111000 01100111 01100011 00110010 00111001 01110011 01100100 01011000 01010010 01110000 01100010 01001101 00110001 01111010 01001100 01101101 00110001 01101011
+
+Organize the codes and then find the key to save humanity
+
+ decoded string: ZSwgYW5kIGFkZCBhIHNjcmVlbnNob3QgdG8gc29sdXRpbM1zLm1
+ 
+ at last i used find command to find the file gravity_singularity.sh ,made it executable and then after running it i got the final task completed.....Happiness is on next level!
