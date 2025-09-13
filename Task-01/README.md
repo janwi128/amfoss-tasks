@@ -1,4 +1,4 @@
-APPROACH:
+# APPROACH:
  firstly i knew nothing about terminal commands and git so, at first i learned some basic terminal and git commands and how they work.
  
  part-1
@@ -16,8 +16,8 @@ In this part i again used cd and ls -a to navigate to Gargantua/.the_core and fo
 
 Now, I have successfully completed the task . The Amount of Happiness I got after completing the task is Unexplainable. This  was one of my best experiences working with this task to learn something new ,THANKS TO PRAVESHAN.
 
-COMMANDS LEARNED:
-Ubuntu Terminal
+# COMMANDS LEARNED:
+# Ubuntu Terminal
 
 cd <directory_path>: Changes the current working directory to the specified path.
 
@@ -37,7 +37,7 @@ cat <file_name>: Outputs the contents of a file.
 
 python [filename] --run : To run a python file
 
-Git
+# Git
 
 git init: Initializes a directory as a Git repository.
 
