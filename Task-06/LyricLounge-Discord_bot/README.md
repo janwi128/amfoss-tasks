@@ -1,4 +1,4 @@
-Approach:
+# Approach:
 I first understood the task properly and analyzed everything that is needed for the task. 
 
 I started the task by following the setup instructions given in the task then i  learned about the topics required for the task from the resources and links given there.
