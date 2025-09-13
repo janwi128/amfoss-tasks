@@ -1,4 +1,4 @@
-APPROACH:
+# APPROACH:
 When i first saw the task, i understood it was about creating simplified versions of common unix commands in C.
 At the beginning i was not sure will i be able to do it or not as i don't have much knowledge about C language.
 
