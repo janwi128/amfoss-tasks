@@ -7,5 +7,5 @@ My first step was to break the problem into smaller parts and learn each concept
 
 I was successfully able to build all 4 commands with their simplified versions.
 I could not implement the flags in these commands as there was no time remaining.
-But i will definitely try doing that. 
+But not stopping here for sure. 
  
