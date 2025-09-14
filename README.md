@@ -9,3 +9,19 @@ I am going to be an active participant in discusssions, projects and events host
 I am deeply interested in several areas of technology that excite me both academically and creatively. I want to deeply explore how web applications are built, from front-end design to back-end logic and for that i plan to satrt by learning HTML,CSS and JavaScipt. Mobile apps have always fascinated me and i aim to learn android development too. I'm also interested in contributing to real-world projects, by working on open-source contribiutions ,I will gain hands-on experience. Strong fundamentals are backbone of any tech field and i am committed to regularly practicing coding problems, improving my logical thinking and problem-solving skills.
 # What are your thoughts and feedback on the praveshan selection process ?
 The praveshan tasks were truly amazing and challenging - When i first saw them, i never thought i would make it this far as a complete begineer. Before starting, I was a completely different person, but through these tasks i learned concepts in weeks that would have taken months otherwise and this journey has transformed me. I am deeply thankful to my mentors for their guidance and for designing such a process taht not only test skills but also teaches persistence, problem-solving and logical thinking skills. I sincerely hope to be selected in amFOSS , but even if i am not , i am proud of how much i have learned and grown during this journey. The only thing that makes me a little sad is that despite giving my best, i could not complete all 10 tasks - yet i carry forward the lessons, confidence and determination i gained along the way. No matter the result, this experience will remain very special to me as the first big step in my journey into technology.  
+### Task Status  
+
+| Task No. | Task Name                          | Status       |
+|----------|------------------------------------|--------------|
+| Task-00  | Install Linux                      |completed     |
+| Task-01  | Terminal Hunt                      |completed     |
+| Task-02  | The Cyberpunk Syndicate            |completed     |
+| Task-03  | The Circularity Challenge          |completed     |
+| Task-04  | Cinescope                          |completed     |
+| Task-05  | TimeTickQuiz CLI                   |completed     |
+| Task-06  | Lyriclounge Discord Bot            |completed     |
+| Task-07  | Wordrush Mobile App                |unattempted   |
+| Task-08  | OpenCV Treasure Map                |completed     |
+| Task-09  | Sysforge Challenge                 |partially completed|
+| Task-10  | Battlecraft: Daily CSS Challenges  |completed     |
+| Task-13  | Lessgo Hugo                        |partially completed|
