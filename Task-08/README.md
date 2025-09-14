@@ -1,4 +1,4 @@
-APPROACH:
+# APPROACH:
 I started this task by breaking it down into smaller steps.
 first, i learned to use OPenCV for segmentation - I used OpenCV to detect the block area and calculate its centroid.
 
