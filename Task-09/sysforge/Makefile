@@ -3,7 +3,6 @@ CFLAGS = -std=c11 -O2 -Wall -Wextra
 BIN = bin
 SRC = src
 
-# default target
 all: $(BIN)/listit $(BIN)/showtext $(BIN)/countit $(BIN)/finder
 
 $(BIN)/listit: $(SRC)/listit.c | $(BIN)
@@ -18,7 +17,6 @@ $(BIN)/countit: $(SRC)/countit.c | $(BIN)
 $(BIN)/finder: $(SRC)/finder.c | $(BIN)
 	$(CC) $(CFLAGS) -o $@ $<
 
-# ensure bin/ directory exists
 $(BIN):
 	mkdir -p $(BIN)
 
