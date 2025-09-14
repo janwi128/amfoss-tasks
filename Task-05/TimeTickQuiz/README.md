@@ -18,4 +18,4 @@ I tested the logic of the code first in an online code editor and then copied th
 verified that:
 questions displayed correctly ,timer counted down properly, thread allowed simultaneous input and countdown,requests fetched data successfully from external API,built-in modules like json worked correctly.
 I ran the game multiple times to check everything was correct. 
-The task was good as it required so much of learning about so many new conepts and i am really happy with the knowledge i got after completing this task.
+The task was good as it required so much of learning about so many new conepts and I am really happy with the knowledge i got after completing this task.
