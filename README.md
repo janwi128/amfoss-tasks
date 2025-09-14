@@ -20,7 +20,7 @@ The praveshan tasks were truly amazing and challenging - When i first saw them, 
 | Task-04  | Cinescope                          |completed     |
 | Task-05  | TimeTickQuiz CLI                   |completed     |
 | Task-06  | Lyriclounge Discord Bot            |completed     |
-| Task-07  | Wordrush Mobile App                |unattempted   |
+| Task-07  | Wordrush Mobile App                |not attempted |
 | Task-08  | OpenCV Treasure Map                |completed     |
 | Task-09  | Sysforge Challenge                 |partially completed|
 | Task-10  | Battlecraft: Daily CSS Challenges  |completed     |
